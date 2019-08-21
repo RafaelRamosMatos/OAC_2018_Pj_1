@@ -1,3 +1,2 @@
-# OAC_2018_Pj_1
-Trabalho de OAC do Vidal 
- Rafael => Binarização linear: Feita 
+# Binarização linear usando assembly MIPS32 
+Este projeto consiste em um algoritmo gostruino em assembly MIPS32 para testes de funcionalidade um procesador MPIS32
